@@ -1,0 +1,27 @@
+ul{
+     max-width: 600px;
+    margin: auto;
+    background-color: rgb(244, 240, 236) ;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+ul>li{
+     margin-bottom: 20px;
+    font-size: 18px;
+    padding-left: 10px; 
+    /* border-left: 4px solid transparent;  */
+    transition: all 0.3s ease;
+}
+ul>li>ul{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+ul>li>ul>li{
+    margin-top:0px;
+    margin-bottom:20px;
+}
+ul>li:hover{
+    background-color:rgb(244, 240, 236) ;
+    border-left: 4px solid #1e90ff;
+}
