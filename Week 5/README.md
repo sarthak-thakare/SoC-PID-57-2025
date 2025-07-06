@@ -8,4 +8,4 @@ It replicates a Figma design provided in the problem statement and maintains cle
 
 ##  Preview
 
-> ![Screenshot](../assets/screenshot.png)  
+> ![Screenshot](src/assets/screenshot.png)  
